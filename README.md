@@ -2,6 +2,8 @@
 
 I am a beginner frontend developer, I am still learning, but I hope that I will succeed in the future.
 
+Living in Ukraine right now.
+
 I'm just a simple guy who likes to develop websites, there aren't many of them at the moment, but I hope to increase both the number and the quality of them in the future.
 
 I like working with js, react, html/css, in the future I want to learn more about ts and tailwind.
