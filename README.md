@@ -1,30 +1,19 @@
-## Yo 👋
+### Hi, I'm Mark 👋
 
-I am a beginner frontend developer, I am still learning, but I hope that I will succeed in the future.
+Frontend developer based in Ukraine, focused on React and TypeScript.
 
-Living in Ukraine right now.
+I like building clean, well-tested UIs — from Kanban-style apps with
+drag-and-drop to real-time data dashboards. Currently looking for a
+junior/intern frontend role where I can work on a real product and
+keep growing.
 
-I'm just a simple guy who likes to develop websites, there aren't many of them at the moment, but I hope to increase both the number and the quality of them in the future.
+**Stack:** JavaScript (ES6+), TypeScript, React, Tailwind CSS, Supabase, Vite, Git
 
-I like working with js, react, html/css, in the future I want to learn more about ts and tailwind.
+Check out my pinned repos below 👇 — JobTrackr (job application tracker
+with drag-and-drop, auth and per-user data isolation) and crypto-pulse
+(real-time crypto tracker with live charts).
 
-Fun facts:
-- I love cats very much, and I have an incredibly cute Scottish tabby cat
-- I am a big football fan, my favorite club is Barcelona and my favorite player is Pedri (Messi in general)
-- I like to play games sometimes, my favorite genre is souls-like
-- I like to watch anime, my favorites are Bleach and Re Zero
+📫 Reach me: bushkog92@gmail.com · [Djinni](https://djinni.co/q/35e90ae0cc/)
 
-<!--
-**Atsui04/Atsui04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Off-screen: cat dad to a Scottish tabby, Barça supporter (Pedri watcher),
+occasional souls-like enjoyer.
