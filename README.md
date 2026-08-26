@@ -13,7 +13,7 @@ Check out my pinned repos below 👇 — JobTrackr (job application tracker
 with drag-and-drop, auth and per-user data isolation) and crypto-pulse
 (real-time crypto tracker with live charts).
 
-📫 Reach me: bushkog92@gmail.com · [Djinni](https://djinni.co/q/35e90ae0cc/)
+📫 Reach me: bushkog92@gmail.com · [Djinni](https://djinni.co/q/35e90ae0cc/) · [Linkedin](https://www.linkedin.com/in/markiian-bushko-55b949430/)
 
 Off-screen: cat dad to a Scottish tabby, Barça supporter (Pedri watcher),
 occasional souls-like enjoyer.
